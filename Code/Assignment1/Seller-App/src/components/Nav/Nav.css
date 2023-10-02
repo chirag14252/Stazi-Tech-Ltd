@@ -19,3 +19,7 @@
     border: none;
     padding: 5px;
 }
+button{
+    background-color: white;
+    border-color: transparent;
+}

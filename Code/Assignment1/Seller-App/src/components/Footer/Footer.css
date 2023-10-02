@@ -1,0 +1,9 @@
+.Footer-section{
+    margin: 1rem;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.Footer-item{
+    display: flex;
+}
