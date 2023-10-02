@@ -1,16 +1,30 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import Card from "./components/Card/Card"
+import axios from "axios";
+import "./app.css"
+import { useEffect, useState } from "react";
+import Nav from "./components/Nav/Nav";
 
 function App() {
-  
-
-  return (
-    <>
-     <h1>Hello project has been started</h1>
-    </>
+//all the api Data will be stored inside carslist
+ const [carsList,changeCarList] = useState();
+ //fetch the APIs at page load
+ useEffect(()=>{
+  axios.get("http://localhost:3000/vehicles?page=1").then(
+    (res)=>{
+      changeCarList(res.data[0].data);
+    }
   )
+ },[])
+  return <>
+  <Nav/>
+    <div className="cards-grid">
+      {
+        carsList?.map((car,idx) => {
+          return <Card key={idx} carDetails={car} />
+        })
+      }
+    </div>
+  </>
 }
 
-export default App
+export default App;

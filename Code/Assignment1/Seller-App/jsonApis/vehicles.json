@@ -31,8 +31,8 @@
                     "mileage": "6.1km/1-litre",
                     "mode": "automatic",
                     "cost": "$440",
-                    "image": "https://www.google.com/search?sca_esv=569943774&sxsrf=AM9HkKkktIuA1B3fGKm35pLABd3i4cQxew:1696223815864&q=Range-rover+image&tbm=isch&source=univ&fir=8SRqT3ZrnyJzIM%252C_Fl6Ik98R6CPpM%252C_%253BUFcCi_zj4PZPyM%252Cd7Qqo1kn7RLoIM%252C_%253BVNq2fv6ZlrWLiM%252CBirzf9aLEdwzAM%252C_%253BDEIrUvdIygkbUM%252C_Fl6Ik98R6CPpM%252C_%253BnJ4PB6aoJukS2M%252CKKj8FOtP6WDXkM%252C_%253BvjpRrfDOdHVqLM%252Cd7Qqo1kn7RLoIM%252C_%253BWFxCetUFdti4-M%252Colw6sa-6fIhK3M%252C_%253BGhsk1dHW60EFWM%252CKKj8FOtP6WDXkM%252C_%253B9Y8LuzcF7YoluM%252Cst_iK0cv_qbofM%252C_%253BSkp7H_323-wSTM%252ChVklxHjOdvWvpM%252C_%253BVmd7GhKV3Rvj8M%252Co3EYryzrDYCbtM%252C_%253Bzc3IMnYAxK-2UM%252C0Oo8zVD9X_niIM%252C_&usg=AI4_-kSETjRq0NNNWki0Fgksmycq6hA_oQ&sa=X&ved=2ahUKEwje4oOQztaBAxUW3jgGHUOnDCcQ7Al6BAgJEEA&biw=1309&bih=741&dpr=2.2#imgrc=8SRqT3ZrnyJzIM"
-                },
+                    "image":"https://media.istockphoto.com/id/458230619/photo/range-rover-evoque-2012-front-view.jpg?s=612x612&w=0&k=20&c=SASTohYSMVzVj33DDUpL5FnMwamFiqMhXILmb380iI4="
+                  },
                 {
                     "vehicle_name": "mercedes Benz series z",
                     "year": "2021",
@@ -51,7 +51,7 @@
                     "mileage": "6.1km/1-litre",
                     "mode": "automatic",
                     "cost": "$440",
-                    "images": "https://www.financialexpress.com/wp-content/uploads/2023/01/2023-BMW-i7-7-Series.jpg"
+                    "image": "https://cdni.autocarindia.com/ExtraImages/20230107011758_7%20Series.jpg"
                 },
                 {
                     "vehicle_name": "Mahindra Scorpio",
@@ -61,7 +61,7 @@
                     "mileage": "6.1km/1-litre",
                     "mode": "automatic",
                     "cost": "$440",
-                    "images": "https://imgd.aeplcdn.com/0X0/n/cw/ec/128413/scorpio-exterior-right-front-three-quarter-47.jpeg"
+                    "image": "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cms.haymarketindia.net/model/uploads/modelimages/Mahindra-Scorpio-N-300620221053.jpg&w=730&h=484&q=75&c=1"
                 }
             ]
         },
@@ -141,7 +141,7 @@
                     "mileage": "12km/1-litre",
                     "mode": "automatic",
                     "cost": "$45,000",
-                    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/163154/a4-exterior-right-front-three-quarter-18.jpeg"
+                    "image": "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cms.haymarketindia.net/model/uploads/modelimages/Audi-A4-190120211207.jpg&w=730&h=484&q=75&c=1"
                 },
                 {
                     "vehicle_name": "BMW X5",
@@ -151,7 +151,7 @@
                     "mileage": "15km/1-litre",
                     "mode": "automatic",
                     "cost": "$55,000",
-                    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/38180/5-series-exterior-right-front-three-quarter-8.jpeg"
+                    "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/BMW/X5-2023/10452/1688992642182/front-left-side-47.jpg"
                 },
                 {
                     "vehicle_name": "Mercedes-Benz C-Class",
@@ -161,7 +161,7 @@
                     "mileage": "18km/1-litre",
                     "mode": "automatic",
                     "cost": "$50,000",
-                    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/196184/c-class-exterior-right-front-three-quarter-36.jpeg"
+                    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/116201/c-class-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80&q=80"
                 },
                 {
                     "vehicle_name": "Lexus RX 350",
@@ -171,7 +171,7 @@
                     "mileage": "14km/1-litre",
                     "mode": "automatic",
                     "cost": "$48,000",
-                    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/144738/rx-exterior-right-front-three-quarter-28.jpeg"
+                    "image": "https://imgd.aeplcdn.com/1056x594/n/zbh9jab_1657989.jpg?q=80"
                 },
                 {
                     "vehicle_name": "Subaru Outback",
@@ -181,7 +181,7 @@
                     "mileage": "16km/1-litre",
                     "mode": "automatic",
                     "cost": "$38,000",
-                    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/39285/outback-exterior-right-front-three-quarter-8.jpeg"
+                    "image": "https://media.ed.edmunds-media.com/subaru/outback/2024/oem/2024_subaru_outback_4dr-suv_onyx-edition-xt_fq_oem_1_1280.jpg"
                 },
                 {
                     "vehicle_name": "Volkswagen Golf",
@@ -191,7 +191,7 @@
                     "mileage": "20km/1-litre equivalent",
                     "mode": "automatic",
                     "cost": "$40,000",
-                    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/37921/golf-exterior-right-front-three-quarter-4.jpeg"
+                    "image": "https://cdni.autocarindia.com/ExtraImages/20230602055539_2.jpg"
                 }
             ]
         },
@@ -206,7 +206,7 @@
                     "mileage": "10km/1-litre",
                     "mode": "automatic",
                     "cost": "$50,000",
-                    "image": "https://cdn.pixabay.com/photo/2019/12/05/15/32/ford-4676857_1280.jpg"
+                    "image": "https://imgd.aeplcdn.com/1920x1080/cw/ec/23766/Ford-Mustang-Exterior-126883.jpg?wm=0&q=80&q=80"
                 },
                 {
                     "vehicle_name": "Chevrolet Silverado",
@@ -216,7 +216,7 @@
                     "mileage": "12km/1-litre",
                     "mode": "automatic",
                     "cost": "$45,000",
-                    "image": "https://cdn.pixabay.com/photo/2020/11/05/00/22/car-5716783_1280.jpg"
+                    "image": "https://media.ed.edmunds-media.com/chevrolet/silverado-1500/2023/oem/2023_chevrolet_silverado-1500_crew-cab-pickup_high-country_fq_oem_1_1600.jpg"
                 },
                 {
                     "vehicle_name": "Jeep Grand Cherokee",
@@ -226,7 +226,7 @@
                     "mileage": "14km/1-litre",
                     "mode": "automatic",
                     "cost": "$55,000",
-                    "image": "https://cdn.pixabay.com/photo/2019/12/05/15/29/jeep-4676841_1280.jpg"
+                    "image": "https://cdni.autocarindia.com/ExtraImages/20230313015307_Jeep_Grand_Cherokee_front.jpg"
                 },
                 {
                     "vehicle_name": "Toyota Prius",
@@ -236,7 +236,7 @@
                     "mileage": "20km/1-litre",
                     "mode": "automatic",
                     "cost": "$35,000",
-                    "image": "https://cdn.pixabay.com/photo/2018/09/04/15/25/toyota-prius-3653978_1280.jpg"
+                    "image": "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/ExtraImages/20221116014533_Prius_resized.jpg&w=700&q=90&c=1"
                 },
                 {
                     "vehicle_name": "Tesla Model S",
@@ -246,7 +246,7 @@
                     "mileage": "25km/1-litre equivalent",
                     "mode": "automatic",
                     "cost": "$70,000",
-                    "image": "https://cdn.pixabay.com/photo/2020/04/17/11/19/tesla-5053661_1280.jpg"
+                    "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Tesla/Model-S/5252/1611840999494/front-left-side-47.jpg"
                 },
                 {
                     "vehicle_name": "Honda CR-V",
@@ -256,7 +256,7 @@
                     "mileage": "15km/1-litre",
                     "mode": "automatic",
                     "cost": "$40,000",
-                    "image": "https://cdn.pixabay.com/photo/2019/07/25/19/55/honda-4363697_1280.jpg"
+                    "image": "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/ExtraImages/20220714101224_Honda_CR_V_front.jpeg&w=700&q=90&c=1"
                 }
             ]
         },
@@ -271,7 +271,7 @@
                     "mileage": "11km/1-litre",
                     "mode": "automatic",
                     "cost": "$55,000",
-                    "image": "https://cdn.pixabay.com/photo/2020/01/04/10/47/chevrolet-4748253_1280.jpg"
+                    "image": "https://www.carandbike.com/_next/image?url=http%3A%2F%2Fi.ndtvimg.com%2Fi%2F2016-06%2Fbumblebee-chevy-camaro_827x510_51465184707.jpg&w=750&q=75"
                 },
                 {
                     "vehicle_name": "Volkswagen Tiguan",
@@ -291,7 +291,7 @@
                     "mileage": "12km/1-litre",
                     "mode": "automatic",
                     "cost": "$50,000",
-                    "image": "https://cdn.pixabay.com/photo/2020/11/17/21/54/subaru-5757396_1280.jpg"
+                    "image": "https://imgd.aeplcdn.com/0X0/n/cw/ec/53123/tiguan-exterior-right-front-three-quarter-4.jpeg?q=80"
                 },
                 {
                     "vehicle_name": "Hyundai Sonata",
@@ -301,7 +301,7 @@
                     "mileage": "19km/1-litre",
                     "mode": "automatic",
                     "cost": "$42,000",
-                    "image": "https://cdn.pixabay.com/photo/2021/03/29/12/13/hyundai-6133340_1280.jpg"
+                    "image": "https://imgd.aeplcdn.com/1280x720/cw/cars/discontinued/hyundai/sonata-2011-2015.jpg?q=80"
                 },
                 {
                     "vehicle_name": "Nissan Leaf",
@@ -311,7 +311,7 @@
                     "mileage": "30km/1-litre equivalent",
                     "mode": "automatic",
                     "cost": "$38,000",
-                    "image": "https://cdn.pixabay.com/photo/2020/07/31/09/41/electric-car-5468039_1280.jpg"
+                    "image": "https://imgd.aeplcdn.com/642x336/cw/ec/40522/Nissan-Leaf-EV-Right-Front-Three-Quarter-169812.jpg?wm=0&q=80"
                 },
                 {
                     "vehicle_name": "Kia Sportage",
@@ -321,7 +321,7 @@
                     "mileage": "14km/1-litre",
                     "mode": "automatic",
                     "cost": "$36,000",
-                    "image": "https://cdn.pixabay.com/photo/2020/03/11/07/47/kia-4920677_1280.jpg"
+                    "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Kia/Sportage/5860/1623155125464/front-left-side-47.jpg"
                 }
             ]
         },
@@ -336,7 +336,7 @@
                     "mileage": "12km/1-litre",
                     "mode": "automatic",
                     "cost": "$55,000",
-                    "image": "https://cdn.pixabay.com/photo/2021/11/16/08/04/ford-mustang-6817737_1280.jpg"
+                    "image": "https://imgd.aeplcdn.com/1920x1080/cw/ec/23766/Ford-Mustang-Exterior-126883.jpg?wm=0&q=80&q=80"
                 },
                 {
                     "vehicle_name": "Toyota RAV4",
@@ -346,7 +346,7 @@
                     "mileage": "18km/1-litre",
                     "mode": "automatic",
                     "cost": "$47,000",
-                    "image": "https://cdn.pixabay.com/photo/2019/09/18/09/34/toyota-4487185_1280.jpg"
+                    "image": "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/ExtraImages/20191011034159_toyota-rav4-phev-1.jpg&w=700&q=90&c=1"
                 },
                 {
                     "vehicle_name": "Jeep Wrangler",
@@ -356,7 +356,7 @@
                     "mileage": "10km/1-litre",
                     "mode": "automatic",
                     "cost": "$48,000",
-                    "image": "https://cdn.pixabay.com/photo/2019/08/18/10/35/jeep-4416063_1280.jpg"
+                    "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Jeep/Wrangler/10944/1690625250497/front-left-side-47.jpg"
                 },
                 {
                     "vehicle_name": "Honda Civic",
@@ -366,7 +366,7 @@
                     "mileage": "14km/1-litre",
                     "mode": "automatic",
                     "cost": "$32,000",
-                    "image": "https://cdn.pixabay.com/photo/2020/05/15/23/41/honda-civic-5177051_1280.jpg"
+                    "image": "https://imgd.aeplcdn.com/0x0/n/cw/ec/27074/civic-exterior-right-front-three-quarter-148155.jpeg?q=80"
                 },
                 {
                     "vehicle_name": "Tesla Model 3",
@@ -376,7 +376,7 @@
                     "mileage": "25km/1-litre equivalent",
                     "mode": "automatic",
                     "cost": "$60,000",
-                    "image": "https://cdn.pixabay.com/photo/2021/08/03/12/05/tesla-6517165_1280.jpg"
+                    "image": "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/ExtraImages/20230901023724_Tesla.png&w=700&q=90&c=1"
                 },
                 {
                     "vehicle_name": "Mazda CX-5",
@@ -386,7 +386,7 @@
                     "mileage": "15km/1-litre",
                     "mode": "automatic",
                     "cost": "$42,000",
-                    "image": "https://cdn.pixabay.com/photo/2017/08/12/18/28/mazda-2635164_1280.jpg"
+                    "image":"https://hips.hearstapps.com/hmg-prod/images/2022-mazda-cx-5-2p5-turbo-signature-123-1657559083.jpg?crop=0.779xw:0.584xh;0.104xw,0.311xh&resize=1200:*"
                 }
             ]
         },
@@ -401,7 +401,7 @@
                     "mileage": "8km/1-litre",
                     "mode": "automatic",
                     "cost": "$250,000",
-                    "image": "https://cdn.pixabay.com/photo/2019/02/10/18/01/lamborghini-3989173_1280.jpg"
+                    "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Lamborghini/Huracan-EVO/10643/1690010999692/front-left-side-47.jpg?impolicy=resize&imwidth=420"
                 },
                 {
                     "vehicle_name": "Audi Q5",
@@ -411,7 +411,7 @@
                     "mileage": "14km/1-litre",
                     "mode": "automatic",
                     "cost": "$52,000",
-                    "image": "https://cdn.pixabay.com/photo/2019/07/27/11/55/audi-q5-4368296_1280.jpg"
+                    "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Audi/Q5/10556/1689594416925/front-left-side-47.jpg"
                 },
                 {
                     "vehicle_name": "Porsche 911",
@@ -421,7 +421,7 @@
                     "mileage": "9km/1-litre",
                     "mode": "automatic",
                     "cost": "$220,000",
-                    "image": "https://cdn.pixabay.com/photo/2016/12/03/00/19/porsche-1880381_1280.jpg"
+                    "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Porsche/911/10990/1690869580714/front-left-side-47.jpg"
                 },
                 {
                     "vehicle_name": "Ford Explorer",
@@ -431,7 +431,7 @@
                     "mileage": "16km/1-litre",
                     "mode": "automatic",
                     "cost": "$47,000",
-                    "image": "https://cdn.pixabay.com/photo/2018/05/28/23/44/ford-3437296_1280.jpg"
+                    "image": "https://imgd.aeplcdn.com/1200x900/n/cw/ec/47580/ford-endeavour-exterior4.jpeg?wm=0"
                 },
                 {
                     "vehicle_name": "Tesla Model X",
@@ -441,7 +441,7 @@
                     "mileage": "28km/1-litre equivalent",
                     "mode": "automatic",
                     "cost": "$75,000",
-                    "image": "https://cdn.pixabay.com/photo/2016/11/19/03/25/tesla-1836350_1280.jpg"
+                    "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Tesla/Model-X/5253/1611841733029/front-left-side-47.jpg"
                 },
                 {
                     "vehicle_name": "Toyota Corolla",
@@ -466,7 +466,7 @@
                 "mileage": "10km/1-litre",
                 "mode": "automatic",
                 "cost": "$300,000",
-                "image": "https://cdn.pixabay.com/photo/2018/09/09/04/59/ferrari-3661829_1280.jpg"
+                "image": "https://cdn.ferrari.com/cms/network/media/img/resize/5da830405d8cd56fbf2b6552-ferrari-488-gtb-share?width=1080"
             },
             {
                 "vehicle_name": "BMW X7",
@@ -476,7 +476,7 @@
                 "mileage": "12km/1-litre",
                 "mode": "automatic",
                 "cost": "$65,000",
-                "image": "https://cdn.pixabay.com/photo/2021/04/30/09/40/bmw-6212723_1280.jpg"
+                "image": "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/ExtraImages/20220413030454_BMW%20X7%20facelift%201.jpg&w=700&q=90&c=1"
             },
             {
                 "vehicle_name": "Aston Martin DB11",
@@ -486,7 +486,7 @@
                 "mileage": "11km/1-litre",
                 "mode": "automatic",
                 "cost": "$260,000",
-                "image": "https://cdn.pixabay.com/photo/2016/11/19/15/28/aston-martin-1836853_1280.jpg"
+                "image": "https://imgd.aeplcdn.com/0X0/cw/ec/25539/Aston-Martin-DB11-Right-Front-Three-Quarter-82872.jpg?wm=0&q=80"
             },
             {
                 "vehicle_name": "Lexus RX 450h",
@@ -496,7 +496,7 @@
                 "mileage": "15km/1-litre",
                 "mode": "automatic",
                 "cost": "$55,000",
-                "image": "https://cdn.pixabay.com/photo/2019/03/23/20/27/lexus-4079632_1280.jpg"
+                "image": "https://www.indiacarnews.com/wp-content/uploads/2016/10/Lexus-RX-450h-India-1.jpg"
             },
             {
                 "vehicle_name": "Tesla Model Y",
@@ -506,7 +506,7 @@
                 "mileage": "27km/1-litre equivalent",
                 "mode": "automatic",
                 "cost": "$62,000",
-                "image": "https://cdn.pixabay.com/photo/2021/04/19/14/11/tesla-6190969_1280.jpg"
+                "image": "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/ExtraImages/20190315013221_Tesla-model_y_front_34_blue.jpg&w=700&q=90&c=1"
             },
             {
                 "vehicle_name": "Nissan Altima",
@@ -516,7 +516,7 @@
                 "mileage": "14km/1-litre",
                 "mode": "automatic",
                 "cost": "$35,000",
-                "image": "https://cdn.pixabay.com/photo/2020/07/30/09/22/nissan-5461591_1280.jpg"
+                "image": "https://hips.hearstapps.com/hmg-prod/images/2023-nissan-altima-111-1654783716.jpg?crop=0.787xw:0.643xh;0.0984xw,0.283xh&resize=1200:*"
             }
         ]
         },
@@ -531,7 +531,7 @@
                     "mileage": "15km/1-litre",
                     "mode": "automatic",
                     "cost": "$80,000",
-                    "image": "https://cdn.pixabay.com/photo/2021/04/13/11/17/mercedes-6173320_1280.jpg"
+                    "image": "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cms.haymarketindia.net/model/uploads/modelimages/Mercedes-Benz-S-Class-201020211423.jpg&w=730&h=484&q=75&c=1"
                 },
                 {
                     "vehicle_name": "Audi A4",
@@ -541,7 +541,7 @@
                     "mileage": "13km/1-litre",
                     "mode": "automatic",
                     "cost": "$50,000",
-                    "image": "https://cdn.pixabay.com/photo/2021/01/29/16/10/audi-5969505_1280.jpg"
+                    "image": "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cms.haymarketindia.net/model/uploads/modelimages/Audi-A4-190120211207.jpg&w=730&h=484&q=75&c=1"
                 },
                 {
                     "vehicle_name": "Jaguar F-Type",
@@ -551,7 +551,7 @@
                     "mileage": "9km/1-litre",
                     "mode": "automatic",
                     "cost": "$70,000",
-                    "image": "https://cdn.pixabay.com/photo/2018/01/19/15/10/jaguar-3093740_1280.jpg"
+                    "image": "https://imgd.aeplcdn.com/0x0/n/37ak3sa_1483591.jpg?q=80"
                 },
                 {
                     "vehicle_name": "Volvo XC60",
@@ -561,7 +561,7 @@
                     "mileage": "17km/1-litre",
                     "mode": "automatic",
                     "cost": "$58,000",
-                    "image": "https://cdn.pixabay.com/photo/2020/12/10/16/07/volvo-5813326_1280.jpg"
+                    "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Volvo/XC60/10589/1692870711844/front-left-side-47.jpg"
                 },
                 {
                     "vehicle_name": "Porsche Taycan",
@@ -571,7 +571,7 @@
                     "mileage": "30km/1-litre equivalent",
                     "mode": "automatic",
                     "cost": "$95,000",
-                    "image": "https://cdn.pixabay.com/photo/2020/08/20/17/25/porsche-5509193_1280.jpg"
+                    "image": "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cms.haymarketindia.net/model/uploads/modelimages/Porsche-Taycan-190820221318.jpg&w=730&h=484&q=75&c=1"
                 },
                 {
                     "vehicle_name": "Ford Escape",
@@ -581,7 +581,7 @@
                     "mileage": "14km/1-litre",
                     "mode": "automatic",
                     "cost": "$42,000",
-                    "image": "https://cdn.pixabay.com/photo/2017/09/27/19/36/ford-2798950_1280.jpg"
+                    "image": "https://media.ed.edmunds-media.com/ford/escape/2023/oem/2023_ford_escape_4dr-suv_plug-in-hybrid_fq_oem_1_1280.jpg"
                 }
             ]
         },
@@ -596,7 +596,7 @@
                     "mileage": "20km/1-litre",
                     "mode": "automatic",
                     "cost": "$55,000",
-                    "image": "https://cdn.pixabay.com/photo/2020/09/27/21/23/acura-5607033_1280.jpg"
+                    "image": "https://hips.hearstapps.com/hmg-prod/images/2022-acura-mdx-type-s-comparison-101-1661794292.jpg?crop=0.648xw:0.487xh;0.197xw,0.306xh&resize=1200:*"
                 },
                 {
                     "vehicle_name": "Lexus LX 570",
@@ -606,7 +606,7 @@
                     "mileage": "10km/1-litre",
                     "mode": "automatic",
                     "cost": "$90,000",
-                    "image": "https://cdn.pixabay.com/photo/2018/07/31/08/38/lexus-3572901_1280.jpg"
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/2018_Lexus_LX_570_%28facelift%29%2C_front_3.24.23.jpg/1200px-2018_Lexus_LX_570_%28facelift%29%2C_front_3.24.23.jpg"
                 },
                 {
                     "vehicle_name": "Maserati GranTurismo",
@@ -616,7 +616,7 @@
                     "mileage": "8km/1-litre",
                     "mode": "automatic",
                     "cost": "$220,000",
-                    "image": "https://cdn.pixabay.com/photo/2018/02/01/20/10/maserati-3128127_1280.jpg"
+                    "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Maserati/Maserati-Gran-Turismo/6660/1559626637346/front-left-side-47.jpg"
                 },
                 {
                     "vehicle_name": "Kia Telluride",
@@ -626,7 +626,7 @@
                     "mileage": "12km/1-litre",
                     "mode": "automatic",
                     "cost": "$47,000",
-                    "image": "https://cdn.pixabay.com/photo/2019/11/11/21/03/kia-4615383_1280.jpg"
+                    "image": "https://cdni.autocarindia.com/ExtraImages/20220414034706_2023_Kia_Telluride%20_2_.jpg"
                 },
                 {
                     "vehicle_name": "Chevrolet Bolt EV",
@@ -636,7 +636,7 @@
                     "mileage": "27km/1-litre equivalent",
                     "mode": "automatic",
                     "cost": "$40,000",
-                    "image": "https://cdn.pixabay.com/photo/2019/07/15/20/29/chevrolet-4333110_1280.jpg"
+                    "image": "https://electrek.co/wp-content/uploads/sites/3/2023/06/buy-chevy-bolt-ev.jpeg?quality=82&strip=all"
                 },
                 {
                     "vehicle_name": "Honda CR-V",
@@ -646,7 +646,7 @@
                     "mileage": "15km/1-litre",
                     "mode": "automatic",
                     "cost": "$35,000",
-                    "image": "https://cdn.pixabay.com/photo/2017/07/04/08/25/honda-2475471_1280.jpg"
+                    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/34457/cr-v-exterior-right-front-three-quarter.jpeg?q=80&q=80"
                 }
             ]
             

@@ -1,0 +1,103 @@
+.car-card {
+    box-shadow: 0px 0px 8px 2px rgba(0, 0, 0, 0.15);
+    background-color: rgb(242, 246, 253);
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    border-radius: 16px;
+    padding: 8px;
+    gap: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.car-card .image-container {
+    width: 100%;
+    aspect-ratio: 7/5;
+}
+.car-card .image-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 16px;
+}
+
+.car-card .details-container {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    padding: 8px;
+}
+.details-container .car-name {
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    font-weight: normal;
+    margin: 0;
+    padding: 4px;
+}
+.details-container .car-name .car-year {
+    display: flex;
+    margin-left: auto;
+    font-size: 14px;
+    border: 1px dashed #4999ed;
+    padding: 4px 8px;
+    border-radius: 10px;
+}
+
+.details-container .car-features {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    row-gap: 12px;
+    padding: 4px;
+    padding-bottom: 16px
+}
+
+.details-container .car-feature {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.car-feature .feature-value {
+    font-size: 14px;
+    color: #677188;
+}
+
+.car-card .rent-and-buttons-div {
+    display: flex;
+    padding: 0px 4px;
+    padding-top: 16px;
+    border-top: 1px solid rgba(0, 0, 0, 0.153);
+    gap: 12px
+}
+
+.rent-and-buttons-div .car-rent {
+    margin: 0;
+    margin-right: auto;
+    font-weight: normal;
+    font-size: 22px;
+}
+.rent-and-buttons-div .car-rent .per-month-span {
+    font-weight: normal;
+    font-size: 14px
+}
+
+.rent-and-buttons-div .like-button {
+    background-color: #dbeafb;
+    border: none;
+    border-radius: 8px;
+    padding: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rent-and-buttons-div .rent-now-button {
+    padding: 8px 10px;
+    text-align: center;
+    border-radius: 8px;
+    border: none;
+    background-color: #4999ed;
+    color: white;
+    font-weight: bolder;
+}
