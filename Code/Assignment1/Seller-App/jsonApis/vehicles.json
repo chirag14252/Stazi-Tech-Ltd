@@ -1,0 +1,655 @@
+{
+    "vehicles": [
+        {
+            "page": "1",
+            "data": [
+                {
+                    "vehicle_name": "Vetarra-brezza",
+                    "year": "2021",
+                    "people": "4",
+                    "vehicle_type": "petrol",
+                    "mileage": "6.1km/1-litre",
+                    "mode": "automatic",
+                    "cost": "$440",
+                    "image": "https://news.maxabout.com/wp-content/uploads/2022/06/Maruti-Suzuki-Brezza-Front.jpeg"
+                },
+                {
+                    "vehicle_name": "hyundai verna",
+                    "year": "2021",
+                    "people": "4",
+                    "vehicle_type": "petrol",
+                    "mileage": "6.1km/1-litre",
+                    "mode": "automatic",
+                    "cost": "$440",
+                    "image": "https://www.financialexpress.com/wp-content/uploads/2023/03/2023-Hyundai-Verna-Review_-1.jpg"
+                },
+                {
+                    "vehicle_name": "Range Rover",
+                    "year": "2021",
+                    "people": "4",
+                    "vehicle_type": "petrol",
+                    "mileage": "6.1km/1-litre",
+                    "mode": "automatic",
+                    "cost": "$440",
+                    "image": "https://www.google.com/search?sca_esv=569943774&sxsrf=AM9HkKkktIuA1B3fGKm35pLABd3i4cQxew:1696223815864&q=Range-rover+image&tbm=isch&source=univ&fir=8SRqT3ZrnyJzIM%252C_Fl6Ik98R6CPpM%252C_%253BUFcCi_zj4PZPyM%252Cd7Qqo1kn7RLoIM%252C_%253BVNq2fv6ZlrWLiM%252CBirzf9aLEdwzAM%252C_%253BDEIrUvdIygkbUM%252C_Fl6Ik98R6CPpM%252C_%253BnJ4PB6aoJukS2M%252CKKj8FOtP6WDXkM%252C_%253BvjpRrfDOdHVqLM%252Cd7Qqo1kn7RLoIM%252C_%253BWFxCetUFdti4-M%252Colw6sa-6fIhK3M%252C_%253BGhsk1dHW60EFWM%252CKKj8FOtP6WDXkM%252C_%253B9Y8LuzcF7YoluM%252Cst_iK0cv_qbofM%252C_%253BSkp7H_323-wSTM%252ChVklxHjOdvWvpM%252C_%253BVmd7GhKV3Rvj8M%252Co3EYryzrDYCbtM%252C_%253Bzc3IMnYAxK-2UM%252C0Oo8zVD9X_niIM%252C_&usg=AI4_-kSETjRq0NNNWki0Fgksmycq6hA_oQ&sa=X&ved=2ahUKEwje4oOQztaBAxUW3jgGHUOnDCcQ7Al6BAgJEEA&biw=1309&bih=741&dpr=2.2#imgrc=8SRqT3ZrnyJzIM"
+                },
+                {
+                    "vehicle_name": "mercedes Benz series z",
+                    "year": "2021",
+                    "people": "4",
+                    "vehicle_type": "petrol",
+                    "mileage": "6.1km/1-litre",
+                    "mode": "automatic",
+                    "cost": "$440",
+                    "image": "https://www.edmunds.com/assets/m/cs/bltc2f0d709f45cdfea/6447201f1d4d37184e1ce056/2024_Mercedes-Benz_E-Class_7_1600.jpg"
+                },
+                {
+                    "vehicle_name": "BMW series 7",
+                    "year": "2021",
+                    "people": "4",
+                    "vehicle_type": "petrol",
+                    "mileage": "6.1km/1-litre",
+                    "mode": "automatic",
+                    "cost": "$440",
+                    "images": "https://www.financialexpress.com/wp-content/uploads/2023/01/2023-BMW-i7-7-Series.jpg"
+                },
+                {
+                    "vehicle_name": "Mahindra Scorpio",
+                    "year": "2021",
+                    "people": "4",
+                    "vehicle_type": "petrol",
+                    "mileage": "6.1km/1-litre",
+                    "mode": "automatic",
+                    "cost": "$440",
+                    "images": "https://imgd.aeplcdn.com/0X0/n/cw/ec/128413/scorpio-exterior-right-front-three-quarter-47.jpeg"
+                }
+            ]
+        },
+        {
+            "page": "2",
+            "data": [
+                {
+                    "vehicle_name": "Honda Civic",
+                    "year": "2022",
+                    "people": "5",
+                    "vehicle_type": "hybrid",
+                    "mileage": "18km/1-litre",
+                    "mode": "manual",
+                    "cost": "$30,000",
+                    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/141867/nexon-exterior-right-front-three-quarter-70.jpeg"
+                },
+                {
+                    "vehicle_name": "Ford Explorer",
+                    "year": "2022",
+                    "people": "7",
+                    "vehicle_type": "gasoline",
+                    "mileage": "12km/1-litre",
+                    "mode": "automatic",
+                    "cost": "$40,000",
+                    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/44709/fortuner-exterior-right-front-three-quarter-20.jpeg"
+                },
+                {
+                    "vehicle_name": "Tesla Model 3",
+                    "year": "2022",
+                    "people": "5",
+                    "vehicle_type": "electric",
+                    "mileage": "25km/1-litre equivalent",
+                    "mode": "automatic",
+                    "cost": "$45,000",
+                    "image": "https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/148477/thar-right-front-three-quarter-5.jpeg?isig=0&q=80"
+                },
+                {
+                    "vehicle_name": "Jeep Wrangler",
+                    "year": "2022",
+                    "people": "5",
+                    "vehicle_type": "gasoline",
+                    "mileage": "10km/1-litre",
+                    "mode": "manual",
+                    "cost": "$35,000",
+                    "image": "https://images.hindustantimes.com/auto/img/2022/03/02/original/Baleno_drive_1646191132530.jpg"
+                },
+                {
+                    "vehicle_name": "Toyota Corolla",
+                    "year": "2022",
+                    "people": "5",
+                    "vehicle_type": "hybrid",
+                    "mileage": "20km/1-litre",
+                    "mode": "automatic",
+                    "cost": "$32,000",
+                    "image": "https://imgd.aeplcdn.com//642x361//n/cw/ec/51330/hyundai-i20-right-front-three-quarter28.jpeg?wm=1&q=75"
+                },
+                {
+                    "vehicle_name": "Nissan Rogue",
+                    "year": "2022",
+                    "people": "5",
+                    "vehicle_type": "gasoline",
+                    "mileage": "14km/1-litre",
+                    "mode": "automatic",
+                    "cost": "$38,000",
+                    "image": "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cms.haymarketindia.net/model/uploads/modelimages/Mahindra-Bolero-050820211908.jpg&w=730&h=484&q=75&c=1"
+                }
+            ]
+        },
+        {
+            "page": "3",
+            "data": [
+                {
+                    "vehicle_name": "Audi A4",
+                    "year": "2023",
+                    "people": "5",
+                    "vehicle_type": "petrol",
+                    "mileage": "12km/1-litre",
+                    "mode": "automatic",
+                    "cost": "$45,000",
+                    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/163154/a4-exterior-right-front-three-quarter-18.jpeg"
+                },
+                {
+                    "vehicle_name": "BMW X5",
+                    "year": "2023",
+                    "people": "5",
+                    "vehicle_type": "diesel",
+                    "mileage": "15km/1-litre",
+                    "mode": "automatic",
+                    "cost": "$55,000",
+                    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/38180/5-series-exterior-right-front-three-quarter-8.jpeg"
+                },
+                {
+                    "vehicle_name": "Mercedes-Benz C-Class",
+                    "year": "2023",
+                    "people": "5",
+                    "vehicle_type": "hybrid",
+                    "mileage": "18km/1-litre",
+                    "mode": "automatic",
+                    "cost": "$50,000",
+                    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/196184/c-class-exterior-right-front-three-quarter-36.jpeg"
+                },
+                {
+                    "vehicle_name": "Lexus RX 350",
+                    "year": "2023",
+                    "people": "5",
+                    "vehicle_type": "gasoline",
+                    "mileage": "14km/1-litre",
+                    "mode": "automatic",
+                    "cost": "$48,000",
+                    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/144738/rx-exterior-right-front-three-quarter-28.jpeg"
+                },
+                {
+                    "vehicle_name": "Subaru Outback",
+                    "year": "2023",
+                    "people": "5",
+                    "vehicle_type": "hybrid",
+                    "mileage": "16km/1-litre",
+                    "mode": "automatic",
+                    "cost": "$38,000",
+                    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/39285/outback-exterior-right-front-three-quarter-8.jpeg"
+                },
+                {
+                    "vehicle_name": "Volkswagen Golf",
+                    "year": "2023",
+                    "people": "5",
+                    "vehicle_type": "electric",
+                    "mileage": "20km/1-litre equivalent",
+                    "mode": "automatic",
+                    "cost": "$40,000",
+                    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/37921/golf-exterior-right-front-three-quarter-4.jpeg"
+                }
+            ]
+        },
+        {
+            "page": "4",
+            "data": [
+                {
+                    "vehicle_name": "Ford Mustang",
+                    "year": "2023",
+                    "people": "4",
+                    "vehicle_type": "gasoline",
+                    "mileage": "10km/1-litre",
+                    "mode": "automatic",
+                    "cost": "$50,000",
+                    "image": "https://cdn.pixabay.com/photo/2019/12/05/15/32/ford-4676857_1280.jpg"
+                },
+                {
+                    "vehicle_name": "Chevrolet Silverado",
+                    "year": "2023",
+                    "people": "5",
+                    "vehicle_type": "diesel",
+                    "mileage": "12km/1-litre",
+                    "mode": "automatic",
+                    "cost": "$45,000",
+                    "image": "https://cdn.pixabay.com/photo/2020/11/05/00/22/car-5716783_1280.jpg"
+                },
+                {
+                    "vehicle_name": "Jeep Grand Cherokee",
+                    "year": "2023",
+                    "people": "5",
+                    "vehicle_type": "gasoline",
+                    "mileage": "14km/1-litre",
+                    "mode": "automatic",
+                    "cost": "$55,000",
+                    "image": "https://cdn.pixabay.com/photo/2019/12/05/15/29/jeep-4676841_1280.jpg"
+                },
+                {
+                    "vehicle_name": "Toyota Prius",
+                    "year": "2023",
+                    "people": "5",
+                    "vehicle_type": "hybrid",
+                    "mileage": "20km/1-litre",
+                    "mode": "automatic",
+                    "cost": "$35,000",
+                    "image": "https://cdn.pixabay.com/photo/2018/09/04/15/25/toyota-prius-3653978_1280.jpg"
+                },
+                {
+                    "vehicle_name": "Tesla Model S",
+                    "year": "2023",
+                    "people": "5",
+                    "vehicle_type": "electric",
+                    "mileage": "25km/1-litre equivalent",
+                    "mode": "automatic",
+                    "cost": "$70,000",
+                    "image": "https://cdn.pixabay.com/photo/2020/04/17/11/19/tesla-5053661_1280.jpg"
+                },
+                {
+                    "vehicle_name": "Honda CR-V",
+                    "year": "2023",
+                    "people": "5",
+                    "vehicle_type": "petrol",
+                    "mileage": "15km/1-litre",
+                    "mode": "automatic",
+                    "cost": "$40,000",
+                    "image": "https://cdn.pixabay.com/photo/2019/07/25/19/55/honda-4363697_1280.jpg"
+                }
+            ]
+        },
+        {
+            "page": "5",
+            "data": [
+                {
+                    "vehicle_name": "Chevrolet Camaro",
+                    "year": "2023",
+                    "people": "4",
+                    "vehicle_type": "gasoline",
+                    "mileage": "11km/1-litre",
+                    "mode": "automatic",
+                    "cost": "$55,000",
+                    "image": "https://cdn.pixabay.com/photo/2020/01/04/10/47/chevrolet-4748253_1280.jpg"
+                },
+                {
+                    "vehicle_name": "Volkswagen Tiguan",
+                    "year": "2023",
+                    "people": "5",
+                    "vehicle_type": "diesel",
+                    "mileage": "13km/1-litre",
+                    "mode": "automatic",
+                    "cost": "$48,000",
+                    "image": "https://cdn.pixabay.com/photo/2021/06/02/08/08/volkswagen-6300895_1280.jpg"
+                },
+                {
+                    "vehicle_name": "Subaru WRX",
+                    "year": "2023",
+                    "people": "5",
+                    "vehicle_type": "gasoline",
+                    "mileage": "12km/1-litre",
+                    "mode": "automatic",
+                    "cost": "$50,000",
+                    "image": "https://cdn.pixabay.com/photo/2020/11/17/21/54/subaru-5757396_1280.jpg"
+                },
+                {
+                    "vehicle_name": "Hyundai Sonata",
+                    "year": "2023",
+                    "people": "5",
+                    "vehicle_type": "hybrid",
+                    "mileage": "19km/1-litre",
+                    "mode": "automatic",
+                    "cost": "$42,000",
+                    "image": "https://cdn.pixabay.com/photo/2021/03/29/12/13/hyundai-6133340_1280.jpg"
+                },
+                {
+                    "vehicle_name": "Nissan Leaf",
+                    "year": "2023",
+                    "people": "5",
+                    "vehicle_type": "electric",
+                    "mileage": "30km/1-litre equivalent",
+                    "mode": "automatic",
+                    "cost": "$38,000",
+                    "image": "https://cdn.pixabay.com/photo/2020/07/31/09/41/electric-car-5468039_1280.jpg"
+                },
+                {
+                    "vehicle_name": "Kia Sportage",
+                    "year": "2023",
+                    "people": "5",
+                    "vehicle_type": "petrol",
+                    "mileage": "14km/1-litre",
+                    "mode": "automatic",
+                    "cost": "$36,000",
+                    "image": "https://cdn.pixabay.com/photo/2020/03/11/07/47/kia-4920677_1280.jpg"
+                }
+            ]
+        },
+        {
+            "page": "6",
+            "data": [
+                {
+                    "vehicle_name": "Ford Mustang",
+                    "year": "2023",
+                    "people": "4",
+                    "vehicle_type": "gasoline",
+                    "mileage": "12km/1-litre",
+                    "mode": "automatic",
+                    "cost": "$55,000",
+                    "image": "https://cdn.pixabay.com/photo/2021/11/16/08/04/ford-mustang-6817737_1280.jpg"
+                },
+                {
+                    "vehicle_name": "Toyota RAV4",
+                    "year": "2023",
+                    "people": "5",
+                    "vehicle_type": "hybrid",
+                    "mileage": "18km/1-litre",
+                    "mode": "automatic",
+                    "cost": "$47,000",
+                    "image": "https://cdn.pixabay.com/photo/2019/09/18/09/34/toyota-4487185_1280.jpg"
+                },
+                {
+                    "vehicle_name": "Jeep Wrangler",
+                    "year": "2023",
+                    "people": "4",
+                    "vehicle_type": "gasoline",
+                    "mileage": "10km/1-litre",
+                    "mode": "automatic",
+                    "cost": "$48,000",
+                    "image": "https://cdn.pixabay.com/photo/2019/08/18/10/35/jeep-4416063_1280.jpg"
+                },
+                {
+                    "vehicle_name": "Honda Civic",
+                    "year": "2023",
+                    "people": "5",
+                    "vehicle_type": "petrol",
+                    "mileage": "14km/1-litre",
+                    "mode": "automatic",
+                    "cost": "$32,000",
+                    "image": "https://cdn.pixabay.com/photo/2020/05/15/23/41/honda-civic-5177051_1280.jpg"
+                },
+                {
+                    "vehicle_name": "Tesla Model 3",
+                    "year": "2023",
+                    "people": "5",
+                    "vehicle_type": "electric",
+                    "mileage": "25km/1-litre equivalent",
+                    "mode": "automatic",
+                    "cost": "$60,000",
+                    "image": "https://cdn.pixabay.com/photo/2021/08/03/12/05/tesla-6517165_1280.jpg"
+                },
+                {
+                    "vehicle_name": "Mazda CX-5",
+                    "year": "2023",
+                    "people": "5",
+                    "vehicle_type": "petrol",
+                    "mileage": "15km/1-litre",
+                    "mode": "automatic",
+                    "cost": "$42,000",
+                    "image": "https://cdn.pixabay.com/photo/2017/08/12/18/28/mazda-2635164_1280.jpg"
+                }
+            ]
+        },
+        {
+            "page": "7",
+            "data": [
+                {
+                    "vehicle_name": "Lamborghini Huracan",
+                    "year": "2023",
+                    "people": "2",
+                    "vehicle_type": "gasoline",
+                    "mileage": "8km/1-litre",
+                    "mode": "automatic",
+                    "cost": "$250,000",
+                    "image": "https://cdn.pixabay.com/photo/2019/02/10/18/01/lamborghini-3989173_1280.jpg"
+                },
+                {
+                    "vehicle_name": "Audi Q5",
+                    "year": "2023",
+                    "people": "5",
+                    "vehicle_type": "diesel",
+                    "mileage": "14km/1-litre",
+                    "mode": "automatic",
+                    "cost": "$52,000",
+                    "image": "https://cdn.pixabay.com/photo/2019/07/27/11/55/audi-q5-4368296_1280.jpg"
+                },
+                {
+                    "vehicle_name": "Porsche 911",
+                    "year": "2023",
+                    "people": "2",
+                    "vehicle_type": "gasoline",
+                    "mileage": "9km/1-litre",
+                    "mode": "automatic",
+                    "cost": "$220,000",
+                    "image": "https://cdn.pixabay.com/photo/2016/12/03/00/19/porsche-1880381_1280.jpg"
+                },
+                {
+                    "vehicle_name": "Ford Explorer",
+                    "year": "2023",
+                    "people": "7",
+                    "vehicle_type": "hybrid",
+                    "mileage": "16km/1-litre",
+                    "mode": "automatic",
+                    "cost": "$47,000",
+                    "image": "https://cdn.pixabay.com/photo/2018/05/28/23/44/ford-3437296_1280.jpg"
+                },
+                {
+                    "vehicle_name": "Tesla Model X",
+                    "year": "2023",
+                    "people": "7",
+                    "vehicle_type": "electric",
+                    "mileage": "28km/1-litre equivalent",
+                    "mode": "automatic",
+                    "cost": "$75,000",
+                    "image": "https://cdn.pixabay.com/photo/2016/11/19/03/25/tesla-1836350_1280.jpg"
+                },
+                {
+                    "vehicle_name": "Toyota Corolla",
+                    "year": "2023",
+                    "people": "5",
+                    "vehicle_type": "petrol",
+                    "mileage": "16km/1-litre",
+                    "mode": "automatic",
+                    "cost": "$30,000",
+                    "image": "https://cdn.pixabay.com/photo/2021/03/05/14/41/toyota-6072432_1280.jpg"
+                }
+            ]
+        },
+        {
+           "page":"8",
+           "data": [
+            {
+                "vehicle_name": "Ferrari 488 GTB",
+                "year": "2023",
+                "people": "2",
+                "vehicle_type": "gasoline",
+                "mileage": "10km/1-litre",
+                "mode": "automatic",
+                "cost": "$300,000",
+                "image": "https://cdn.pixabay.com/photo/2018/09/09/04/59/ferrari-3661829_1280.jpg"
+            },
+            {
+                "vehicle_name": "BMW X7",
+                "year": "2023",
+                "people": "7",
+                "vehicle_type": "diesel",
+                "mileage": "12km/1-litre",
+                "mode": "automatic",
+                "cost": "$65,000",
+                "image": "https://cdn.pixabay.com/photo/2021/04/30/09/40/bmw-6212723_1280.jpg"
+            },
+            {
+                "vehicle_name": "Aston Martin DB11",
+                "year": "2023",
+                "people": "2",
+                "vehicle_type": "gasoline",
+                "mileage": "11km/1-litre",
+                "mode": "automatic",
+                "cost": "$260,000",
+                "image": "https://cdn.pixabay.com/photo/2016/11/19/15/28/aston-martin-1836853_1280.jpg"
+            },
+            {
+                "vehicle_name": "Lexus RX 450h",
+                "year": "2023",
+                "people": "5",
+                "vehicle_type": "hybrid",
+                "mileage": "15km/1-litre",
+                "mode": "automatic",
+                "cost": "$55,000",
+                "image": "https://cdn.pixabay.com/photo/2019/03/23/20/27/lexus-4079632_1280.jpg"
+            },
+            {
+                "vehicle_name": "Tesla Model Y",
+                "year": "2023",
+                "people": "5",
+                "vehicle_type": "electric",
+                "mileage": "27km/1-litre equivalent",
+                "mode": "automatic",
+                "cost": "$62,000",
+                "image": "https://cdn.pixabay.com/photo/2021/04/19/14/11/tesla-6190969_1280.jpg"
+            },
+            {
+                "vehicle_name": "Nissan Altima",
+                "year": "2023",
+                "people": "5",
+                "vehicle_type": "petrol",
+                "mileage": "14km/1-litre",
+                "mode": "automatic",
+                "cost": "$35,000",
+                "image": "https://cdn.pixabay.com/photo/2020/07/30/09/22/nissan-5461591_1280.jpg"
+            }
+        ]
+        },
+        {
+            "page":"9",
+            "data": [
+                {
+                    "vehicle_name": "Mercedes-Benz S-Class",
+                    "year": "2023",
+                    "people": "5",
+                    "vehicle_type": "petrol",
+                    "mileage": "15km/1-litre",
+                    "mode": "automatic",
+                    "cost": "$80,000",
+                    "image": "https://cdn.pixabay.com/photo/2021/04/13/11/17/mercedes-6173320_1280.jpg"
+                },
+                {
+                    "vehicle_name": "Audi A4",
+                    "year": "2023",
+                    "people": "5",
+                    "vehicle_type": "diesel",
+                    "mileage": "13km/1-litre",
+                    "mode": "automatic",
+                    "cost": "$50,000",
+                    "image": "https://cdn.pixabay.com/photo/2021/01/29/16/10/audi-5969505_1280.jpg"
+                },
+                {
+                    "vehicle_name": "Jaguar F-Type",
+                    "year": "2023",
+                    "people": "2",
+                    "vehicle_type": "gasoline",
+                    "mileage": "9km/1-litre",
+                    "mode": "automatic",
+                    "cost": "$70,000",
+                    "image": "https://cdn.pixabay.com/photo/2018/01/19/15/10/jaguar-3093740_1280.jpg"
+                },
+                {
+                    "vehicle_name": "Volvo XC60",
+                    "year": "2023",
+                    "people": "5",
+                    "vehicle_type": "hybrid",
+                    "mileage": "17km/1-litre",
+                    "mode": "automatic",
+                    "cost": "$58,000",
+                    "image": "https://cdn.pixabay.com/photo/2020/12/10/16/07/volvo-5813326_1280.jpg"
+                },
+                {
+                    "vehicle_name": "Porsche Taycan",
+                    "year": "2023",
+                    "people": "4",
+                    "vehicle_type": "electric",
+                    "mileage": "30km/1-litre equivalent",
+                    "mode": "automatic",
+                    "cost": "$95,000",
+                    "image": "https://cdn.pixabay.com/photo/2020/08/20/17/25/porsche-5509193_1280.jpg"
+                },
+                {
+                    "vehicle_name": "Ford Escape",
+                    "year": "2023",
+                    "people": "5",
+                    "vehicle_type": "petrol",
+                    "mileage": "14km/1-litre",
+                    "mode": "automatic",
+                    "cost": "$42,000",
+                    "image": "https://cdn.pixabay.com/photo/2017/09/27/19/36/ford-2798950_1280.jpg"
+                }
+            ]
+        },
+        {
+            "page":"10",
+            "data": [
+                {
+                    "vehicle_name": "Acura MDX",
+                    "year": "2023",
+                    "people": "7",
+                    "vehicle_type": "hybrid",
+                    "mileage": "20km/1-litre",
+                    "mode": "automatic",
+                    "cost": "$55,000",
+                    "image": "https://cdn.pixabay.com/photo/2020/09/27/21/23/acura-5607033_1280.jpg"
+                },
+                {
+                    "vehicle_name": "Lexus LX 570",
+                    "year": "2023",
+                    "people": "8",
+                    "vehicle_type": "petrol",
+                    "mileage": "10km/1-litre",
+                    "mode": "automatic",
+                    "cost": "$90,000",
+                    "image": "https://cdn.pixabay.com/photo/2018/07/31/08/38/lexus-3572901_1280.jpg"
+                },
+                {
+                    "vehicle_name": "Maserati GranTurismo",
+                    "year": "2023",
+                    "people": "2",
+                    "vehicle_type": "gasoline",
+                    "mileage": "8km/1-litre",
+                    "mode": "automatic",
+                    "cost": "$220,000",
+                    "image": "https://cdn.pixabay.com/photo/2018/02/01/20/10/maserati-3128127_1280.jpg"
+                },
+                {
+                    "vehicle_name": "Kia Telluride",
+                    "year": "2023",
+                    "people": "8",
+                    "vehicle_type": "diesel",
+                    "mileage": "12km/1-litre",
+                    "mode": "automatic",
+                    "cost": "$47,000",
+                    "image": "https://cdn.pixabay.com/photo/2019/11/11/21/03/kia-4615383_1280.jpg"
+                },
+                {
+                    "vehicle_name": "Chevrolet Bolt EV",
+                    "year": "2023",
+                    "people": "5",
+                    "vehicle_type": "electric",
+                    "mileage": "27km/1-litre equivalent",
+                    "mode": "automatic",
+                    "cost": "$40,000",
+                    "image": "https://cdn.pixabay.com/photo/2019/07/15/20/29/chevrolet-4333110_1280.jpg"
+                },
+                {
+                    "vehicle_name": "Honda CR-V",
+                    "year": "2023",
+                    "people": "5",
+                    "vehicle_type": "petrol",
+                    "mileage": "15km/1-litre",
+                    "mode": "automatic",
+                    "cost": "$35,000",
+                    "image": "https://cdn.pixabay.com/photo/2017/07/04/08/25/honda-2475471_1280.jpg"
+                }
+            ]
+            
+        }
+    ]
+}
