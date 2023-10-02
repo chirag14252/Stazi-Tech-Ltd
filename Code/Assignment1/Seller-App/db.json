@@ -1,0 +1,64 @@
+{
+   "vehicle":[
+    {
+     "vehicle_name":"Vetarra-brezza",
+      "year":"2021",
+      "people":"4",
+      "vehicle_type":"petrol",
+      "mileage":"6.1km/1-litre",
+      "mode":"automatic",
+      "cost":"$440",
+      "image":"https://news.maxabout.com/wp-content/uploads/2022/06/Maruti-Suzuki-Brezza-Front.jpeg"
+    },
+    {
+        "vehicle_name":"hyundai verna",
+         "year":"2021",
+         "people":"4",
+         "vehicle_type":"petrol",
+         "mileage":"6.1km/1-litre",
+         "mode":"automatic",
+         "cost":"$440",
+         "image":"https://www.financialexpress.com/wp-content/uploads/2023/03/2023-Hyundai-Verna-Review_-1.jpg"
+    },
+    {
+        "vehicle_name":"Range Rover",
+         "year":"2021",
+         "people":"4",
+         "vehicle_type":"petrol",
+         "mileage":"6.1km/1-litre",
+         "mode":"automatic",
+         "cost":"$440",
+         "image":"https://www.google.com/search?sca_esv=569943774&sxsrf=AM9HkKkktIuA1B3fGKm35pLABd3i4cQxew:1696223815864&q=Range-rover+image&tbm=isch&source=univ&fir=8SRqT3ZrnyJzIM%252C_Fl6Ik98R6CPpM%252C_%253BUFcCi_zj4PZPyM%252Cd7Qqo1kn7RLoIM%252C_%253BVNq2fv6ZlrWLiM%252CBirzf9aLEdwzAM%252C_%253BDEIrUvdIygkbUM%252C_Fl6Ik98R6CPpM%252C_%253BnJ4PB6aoJukS2M%252CKKj8FOtP6WDXkM%252C_%253BvjpRrfDOdHVqLM%252Cd7Qqo1kn7RLoIM%252C_%253BWFxCetUFdti4-M%252Colw6sa-6fIhK3M%252C_%253BGhsk1dHW60EFWM%252CKKj8FOtP6WDXkM%252C_%253B9Y8LuzcF7YoluM%252Cst_iK0cv_qbofM%252C_%253BSkp7H_323-wSTM%252ChVklxHjOdvWvpM%252C_%253BVmd7GhKV3Rvj8M%252Co3EYryzrDYCbtM%252C_%253Bzc3IMnYAxK-2UM%252C0Oo8zVD9X_niIM%252C_&usg=AI4_-kSETjRq0NNNWki0Fgksmycq6hA_oQ&sa=X&ved=2ahUKEwje4oOQztaBAxUW3jgGHUOnDCcQ7Al6BAgJEEA&biw=1309&bih=741&dpr=2.2#imgrc=8SRqT3ZrnyJzIM"
+       },
+       {
+        "vehicle_name":"mercedes Benz series z",
+         "year":"2021",
+         "people":"4",
+         "vehicle_type":"petrol",
+         "mileage":"6.1km/1-litre",
+         "mode":"automatic",
+         "cost":"$440",
+         "image":"https://www.edmunds.com/assets/m/cs/bltc2f0d709f45cdfea/6447201f1d4d37184e1ce056/2024_Mercedes-Benz_E-Class_7_1600.jpg"
+       },
+       {
+        "vehicle_name":"BMW series 7",
+         "year":"2021",
+         "people":"4",
+         "vehicle_type":"petrol",
+         "mileage":"6.1km/1-litre",
+         "mode":"automatic",
+         "cost":"$440",
+         "images":"https://www.financialexpress.com/wp-content/uploads/2023/01/2023-BMW-i7-7-Series.jpg"
+       },
+       {
+        "vehicle_name":"Mahindra Scorpio",
+         "year":"2021",
+         "people":"4",
+         "vehicle_type":"petrol",
+         "mileage":"6.1km/1-litre",
+         "mode":"automatic",
+         "cost":"$440",
+         "images":"https://imgd.aeplcdn.com/0X0/n/cw/ec/128413/scorpio-exterior-right-front-three-quarter-47.jpeg"
+       }
+   ]
+  }
