@@ -1,0 +1,17 @@
+.nav-section{
+    margin-left: 110px;
+    margin-bottom: 30px;
+    display: flex;
+    gap:20px;
+}
+
+.nav-button{
+    padding: 15px 25px;
+    border:transparent;
+    border-radius: 20px;
+}
+
+.active{
+    color: white;
+    background-color: rgb(44,47,183);
+}

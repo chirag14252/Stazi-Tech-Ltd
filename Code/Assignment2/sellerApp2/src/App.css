@@ -1,0 +1,25 @@
+.cards-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    padding: 1rem;
+    gap: 1rem;
+    width: fit-content;
+    margin: auto;
+    gap:50px;
+}
+
+.ShowMoreClass{
+  display: flex;
+  justify-content: center;
+}
+
+.show{
+    display: none;
+}
+.more-button{
+    padding: 15px 25px;
+    border:transparent;
+    border-radius: 20px;
+    background-color: rgb(44,47,183);
+    color: white;
+}

@@ -8,7 +8,7 @@
             "Bed":"1",
             "Bath":"1",
             "Dimension":"800 sq ft",
-            "Cost":"$3,500/month"
+            "Cost":"$3,500"
         },
         {
             "Location":"Brooklyn Heights",
@@ -17,7 +17,7 @@
             "Bed":"2",
             "Bath":"1",
             "Dimension":"1,000 sq ft",
-            "Cost":"$4,000/month"
+            "Cost":"$4,000"
         },
         {
             "Location":"SoHo",
@@ -26,7 +26,7 @@
             "Bed":"1",
             "Bath":"1",
             "Dimension":"600 sq ft",
-            "Cost":"$5,000/month"
+            "Cost":"$5,000"
         },
         {
             "Location":"East Village",
@@ -35,7 +35,7 @@
             "Bed":"1",
             "Bath":"1",
             "Dimension":"700 sq ft",
-            "Cost":"$3,000/month"
+            "Cost":"$3,000"
         },
         {
             "Location":"Midtown",
@@ -44,7 +44,7 @@
             "Bed":"2",
             "Bath":"2",
             "Dimension":"1,200 sq ft",
-            "Cost":"$6,000/month"
+            "Cost":"$6,000"
         },
         {
             "Location":"Williamsburg",
@@ -53,7 +53,7 @@
             "Bed":"1",
             "Bath":"1",
             "Dimension":"500 sq ft",
-            "Cost":"$3,500/month"
+            "Cost":"$3,500"
         },
         {
             "Location":"Greenwich Village",
@@ -62,7 +62,7 @@
             "Bed":"1",
             "Bath":"1",
             "Dimension":"800 sq ft",
-            "Cost":"$4,000/month"
+            "Cost":"$4,000"
         },
         {
             "Location":"Chelsea",
@@ -71,7 +71,7 @@
             "Bed":"2",
             "Bath":"2",
             "Dimension":"1,000 sq ft",
-            "Cost":"$5,000/month"
+            "Cost":"$5,000"
         },
         {
             "Location":"Financial District",
@@ -80,7 +80,7 @@
             "Bed":"1",
             "Bath":"1",
             "Dimension":"600 sq ft",
-            "Cost":"$4,500/month"
+            "Cost":"$4,500"
         }
     ],
     "Mumbai":[
@@ -91,7 +91,7 @@
             "Bed":"1",
             "Bath":"1",
             "Dimension":"700 sq ft",
-            "Cost":"INR 35,000/month"
+            "Cost":"INR 35,000"
         },
         {
             "Location":"Andheri West",
@@ -100,7 +100,7 @@
             "Bed":"2",
             "Bath":"1",
             "Dimension":"1,000 sq ft",
-            "Cost":"INR 40,000/month"
+            "Cost":"INR 40,000"
         },
         {
             "Location":"Lower Parel",
@@ -109,7 +109,7 @@
             "Bed":"1",
             "Bath":"1",
             "Dimension":"600 sq ft",
-            "Cost":"INR 50,000/month"
+            "Cost":"INR 50,000"
         },
         {
             "Location":"Borivili West",
@@ -118,7 +118,7 @@
             "Bed":"1",
             "Bath":"1",
             "Dimension":"700 sq ft",
-            "Cost":"INR 30,000/month"
+            "Cost":"INR 30,000"
         },
         {
             "Location":"Kharghar",
@@ -127,7 +127,7 @@
             "Bed":"2",
             "Bath":"2",
             "Dimension":"1,200 sq ft",
-            "Cost":"INR 60,000/month"
+            "Cost":"INR 60,000"
         },
         {
             "Location":"Malad West",
@@ -136,7 +136,7 @@
             "Bed":"1",
             "Bath":"1",
             "Dimension":"500 sq ft",
-            "Cost":"INR 35,000/month"
+            "Cost":"INR 35,000"
         },
         {
             "Location":"Goregaon East",
@@ -145,7 +145,7 @@
             "Bed":"1",
             "Bath":"1",
             "Dimension":"800 sq ft",
-            "Cost":"INR 40,000/month"
+            "Cost":"INR 40,000"
         },
         {
             "Location":"Powai",
@@ -154,7 +154,7 @@
             "Bed":"2",
             "Bath":"2",
             "Dimension":"1,000 sq ft",
-            "Cost":"INR 50,000/month"
+            "Cost":"INR 50,000"
         },
         {
             "Location":"Andheri East",
@@ -163,7 +163,7 @@
             "Bed":"1",
             "Bath":"1",
             "Dimension":"600 sq ft",
-            "Cost":"INR 45,000/month"
+            "Cost":"INR 45,000"
         }
     ],
     "Paris":[
@@ -174,7 +174,7 @@
             "Bed":"1",
             "Bath":"1",
             "Dimension":"60m²",
-            "Cost":"€3,500/month"
+            "Cost":"€3,500"
         },
         {
             "Location":"Marais",
@@ -183,7 +183,7 @@
             "Bed":"2",
             "Bath":"1",
             "Dimension":"80m²",
-            "Cost":"€4,000/month"
+            "Cost":"€4,000"
         },
         {
             "Location":"Eiffel Tower",
@@ -192,7 +192,7 @@
             "Bed":"1",
             "Bath":"1",
             "Dimension":"40m²",
-            "Cost":"€5,000/month"
+            "Cost":"€5,000"
         },
         {
             "Location":"Montmartre",
@@ -201,7 +201,7 @@
             "Bed":"1",
             "Bath":"1",
             "Dimension":"70m²",
-            "Cost":"€3,000/month"
+            "Cost":"€3,000"
         },
         {
             "Location":"Latin Quarter",
@@ -210,7 +210,7 @@
             "Bed":"2",
             "Bath":"2",
             "Dimension":"100m²",
-            "Cost":"€6,000/month"
+            "Cost":"€6,000"
         },
         {
             "Location":"Opéra",
@@ -219,7 +219,7 @@
             "Bed":"1",
             "Bath":"1",
             "Dimension":"50m²",
-            "Cost":"€3,500/month"
+            "Cost":"€3,500"
         },
         {
             "Location":"Jardin du Luxembourg",
@@ -228,7 +228,7 @@
             "Bed":"1",
             "Bath":"1",
             "Dimension":"80m²",
-            "Cost":"€4,000/month"
+            "Cost":"€4,000"
         },
         {
             "Location":"Canal Saint-Martin",
@@ -237,7 +237,7 @@
             "Bed":"2",
             "Bath":"2",
             "Dimension":"100m²",
-            "Cost":"€5,000/month"
+            "Cost":"€5,000"
         },
         {
             "Location":"Bercy",
@@ -246,7 +246,7 @@
             "Bed":"1",
             "Bath":"1",
             "Dimension":"60m²",
-            "Cost":"€4,500/month"
+            "Cost":"€4,500"
         }
     ],
     "London":[
@@ -257,7 +257,7 @@
             "Bed":"1",
             "Bath":"1",
             "Dimension":"600 sq ft",
-            "Cost":"£4,000/month"
+            "Cost":"£4,000"
         },
         {
             "Location":"Soho",
@@ -266,7 +266,7 @@
             "Bed":"2",
             "Bath":"1",
             "Dimension":"800 sq ft",
-            "Cost":"£5,000/month"
+            "Cost":"£5,000"
         },
         {
             "Location":"Notting Hill",
@@ -275,7 +275,7 @@
             "Bed":"1",
             "Bath":"1",
             "Dimension":"500 sq ft",
-            "Cost":"£6,000/month"
+            "Cost":"£6,000"
         },
         {
             "Location":"Kensington",
@@ -284,7 +284,7 @@
             "Bed":"1",
             "Bath":"1",
             "Dimension":"700 sq ft",
-            "Cost":"£3,500/month"
+            "Cost":"£3,500"
         },
         {
             "Location":"Mayfair",
@@ -293,7 +293,7 @@
             "Bed":"2",
             "Bath":"2",
             "Dimension":"1,000 sq ft",
-            "Cost":"£7,000/month"
+            "Cost":"£7,000"
         },
         {
             "Location":"Shoreditch",
@@ -302,7 +302,7 @@
             "Bed":"1",
             "Bath":"1",
             "Dimension":"400 sq ft",
-            "Cost":"£4,500/month"
+            "Cost":"£4,500"
         },
         {
             "Location":"Camden",
@@ -311,7 +311,7 @@
             "Bed":"1",
             "Bath":"1",
             "Dimension":"600 sq ft",
-            "Cost":"£5,000/month"
+            "Cost":"£5,000"
         },
         {
             "Location":"Greenwich",
@@ -320,7 +320,7 @@
             "Bed":"2",
             "Bath":"2",
             "Dimension":"800 sq ft",
-            "Cost":"£6,000/month"
+            "Cost":"£6,000"
         },
         {
             "Location":"Islington",
@@ -329,7 +329,7 @@
             "Bed":"1",
             "Bath":"1",
             "Dimension":"500 sq ft",
-            "Cost":"£4,000/month"
+            "Cost":"£4,000"
         }
     ]
 }
