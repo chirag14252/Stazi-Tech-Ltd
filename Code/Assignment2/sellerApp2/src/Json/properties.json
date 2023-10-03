@@ -1,0 +1,335 @@
+
+{
+    "NewYork":[
+        {
+            "Location":"Upper West Side",
+            "Location_name" : "Riverside Park",
+            "Rooms":"2",
+            "Bed":"1",
+            "Bath":"1",
+            "Dimension":"800 sq ft",
+            "Cost":"$3,500/month"
+        },
+        {
+            "Location":"Brooklyn Heights",
+            "Location_name" : "Promenade",
+            "Rooms":"3",
+            "Bed":"2",
+            "Bath":"1",
+            "Dimension":"1,000 sq ft",
+            "Cost":"$4,000/month"
+        },
+        {
+            "Location":"SoHo",
+            "Location_name" : "Broadway",
+            "Rooms":"1",
+            "Bed":"1",
+            "Bath":"1",
+            "Dimension":"600 sq ft",
+            "Cost":"$5,000/month"
+        },
+        {
+            "Location":"East Village",
+            "Location_name" : "St. Mark's Place",
+            "Rooms":"2",
+            "Bed":"1",
+            "Bath":"1",
+            "Dimension":"700 sq ft",
+            "Cost":"$3,000/month"
+        },
+        {
+            "Location":"Midtown",
+            "Location_name" : "Grand Central",
+            "Rooms":"3",
+            "Bed":"2",
+            "Bath":"2",
+            "Dimension":"1,200 sq ft",
+            "Cost":"$6,000/month"
+        },
+        {
+            "Location":"Williamsburg",
+            "Location_name" : "Bushwick Avenue",
+            "Rooms":"1",
+            "Bed":"1",
+            "Bath":"1",
+            "Dimension":"500 sq ft",
+            "Cost":"$3,500/month"
+        },
+        {
+            "Location":"Greenwich Village",
+            "Location_name" : "Washington Square Park",
+            "Rooms":"2",
+            "Bed":"1",
+            "Bath":"1",
+            "Dimension":"800 sq ft",
+            "Cost":"$4,000/month"
+        },
+        {
+            "Location":"Chelsea",
+            "Location_name" : "High Line",
+            "Rooms":"3",
+            "Bed":"2",
+            "Bath":"2",
+            "Dimension":"1,000 sq ft",
+            "Cost":"$5,000/month"
+        },
+        {
+            "Location":"Financial District",
+            "Location_name" : "Wall Street",
+            "Rooms":"1",
+            "Bed":"1",
+            "Bath":"1",
+            "Dimension":"600 sq ft",
+            "Cost":"$4,500/month"
+        }
+    ],
+    "Mumbai":[
+        {
+            "Location":"Bandra West",
+            "Location_name" : "Carter Road",
+            "Rooms":"2",
+            "Bed":"1",
+            "Bath":"1",
+            "Dimension":"700 sq ft",
+            "Cost":"INR 35,000/month"
+        },
+        {
+            "Location":"Andheri West",
+            "Location_name" : "Infinity Mall",
+            "Rooms":"3",
+            "Bed":"2",
+            "Bath":"1",
+            "Dimension":"1,000 sq ft",
+            "Cost":"INR 40,000/month"
+        },
+        {
+            "Location":"Lower Parel",
+            "Location_name" : "Bandra-Kurla Complex",
+            "Rooms":"1",
+            "Bed":"1",
+            "Bath":"1",
+            "Dimension":"600 sq ft",
+            "Cost":"INR 50,000/month"
+        },
+        {
+            "Location":"Borivili West",
+            "Location_name" : "Powai Lake",
+            "Rooms":"2",
+            "Bed":"1",
+            "Bath":"1",
+            "Dimension":"700 sq ft",
+            "Cost":"INR 30,000/month"
+        },
+        {
+            "Location":"Kharghar",
+            "Location_name" : "Palm Beach Road",
+            "Rooms":"3",
+            "Bed":"2",
+            "Bath":"2",
+            "Dimension":"1,200 sq ft",
+            "Cost":"INR 60,000/month"
+        },
+        {
+            "Location":"Malad West",
+            "Location_name" : "Mall of India",
+            "Rooms":"1",
+            "Bed":"1",
+            "Bath":"1",
+            "Dimension":"500 sq ft",
+            "Cost":"INR 35,000/month"
+        },
+        {
+            "Location":"Goregaon East",
+            "Location_name" : "Prabhadevi Temple",
+            "Rooms":"2",
+            "Bed":"1",
+            "Bath":"1",
+            "Dimension":"800 sq ft",
+            "Cost":"INR 40,000/month"
+        },
+        {
+            "Location":"Powai",
+            "Location_name" : "IIT Bombay",
+            "Rooms":"3",
+            "Bed":"2",
+            "Bath":"2",
+            "Dimension":"1,000 sq ft",
+            "Cost":"INR 50,000/month"
+        },
+        {
+            "Location":"Andheri East",
+            "Location_name" : "Lokhandwala Complex",
+            "Rooms":"1",
+            "Bed":"1",
+            "Bath":"1",
+            "Dimension":"600 sq ft",
+            "Cost":"INR 45,000/month"
+        }
+    ],
+    "Paris":[
+        {
+            "Location":"Saint-Germain-des-Prés",
+            "Location_name" : "Boulevard Saint-Germain",
+            "Rooms":"2",
+            "Bed":"1",
+            "Bath":"1",
+            "Dimension":"60m²",
+            "Cost":"€3,500/month"
+        },
+        {
+            "Location":"Marais",
+            "Location_name" : "Place des Vosges",
+            "Rooms":"3",
+            "Bed":"2",
+            "Bath":"1",
+            "Dimension":"80m²",
+            "Cost":"€4,000/month"
+        },
+        {
+            "Location":"Eiffel Tower",
+            "Location_name" : "Champ de Mars",
+            "Rooms":"1",
+            "Bed":"1",
+            "Bath":"1",
+            "Dimension":"40m²",
+            "Cost":"€5,000/month"
+        },
+        {
+            "Location":"Montmartre",
+            "Location_name" : "Sacré-Coeur",
+            "Rooms":"2",
+            "Bed":"1",
+            "Bath":"1",
+            "Dimension":"70m²",
+            "Cost":"€3,000/month"
+        },
+        {
+            "Location":"Latin Quarter",
+            "Location_name" : "Sorbonne",
+            "Rooms":"3",
+            "Bed":"2",
+            "Bath":"2",
+            "Dimension":"100m²",
+            "Cost":"€6,000/month"
+        },
+        {
+            "Location":"Opéra",
+            "Location_name" : "Place Vendôme",
+            "Rooms":"1",
+            "Bed":"1",
+            "Bath":"1",
+            "Dimension":"50m²",
+            "Cost":"€3,500/month"
+        },
+        {
+            "Location":"Jardin du Luxembourg",
+            "Location_name" : "Saint-Sulpice",
+            "Rooms":"2",
+            "Bed":"1",
+            "Bath":"1",
+            "Dimension":"80m²",
+            "Cost":"€4,000/month"
+        },
+        {
+            "Location":"Canal Saint-Martin",
+            "Location_name" : "Oberkampf",
+            "Rooms":"3",
+            "Bed":"2",
+            "Bath":"2",
+            "Dimension":"100m²",
+            "Cost":"€5,000/month"
+        },
+        {
+            "Location":"Bercy",
+            "Location_name" : "Vincennes",
+            "Rooms":"1",
+            "Bed":"1",
+            "Bath":"1",
+            "Dimension":"60m²",
+            "Cost":"€4,500/month"
+        }
+    ],
+    "London":[
+        {
+            "Location":"Chelsea",
+            "Location_name" : "Chelsea Embankment",
+            "Rooms":"2",
+            "Bed":"1",
+            "Bath":"1",
+            "Dimension":"600 sq ft",
+            "Cost":"£4,000/month"
+        },
+        {
+            "Location":"Soho",
+            "Location_name" : "Oxford Street",
+            "Rooms":"3",
+            "Bed":"2",
+            "Bath":"1",
+            "Dimension":"800 sq ft",
+            "Cost":"£5,000/month"
+        },
+        {
+            "Location":"Notting Hill",
+            "Location_name" : "Portobello Road",
+            "Rooms":"1",
+            "Bed":"1",
+            "Bath":"1",
+            "Dimension":"500 sq ft",
+            "Cost":"£6,000/month"
+        },
+        {
+            "Location":"Kensington",
+            "Location_name" : "Hyde Park",
+            "Rooms":"2",
+            "Bed":"1",
+            "Bath":"1",
+            "Dimension":"700 sq ft",
+            "Cost":"£3,500/month"
+        },
+        {
+            "Location":"Mayfair",
+            "Location_name" : "Bond Street",
+            "Rooms":"3",
+            "Bed":"2",
+            "Bath":"2",
+            "Dimension":"1,000 sq ft",
+            "Cost":"£7,000/month"
+        },
+        {
+            "Location":"Shoreditch",
+            "Location_name" : "Brick Lane",
+            "Rooms":"1",
+            "Bed":"1",
+            "Bath":"1",
+            "Dimension":"400 sq ft",
+            "Cost":"£4,500/month"
+        },
+        {
+            "Location":"Camden",
+            "Location_name" : "Camden Market",
+            "Rooms":"2",
+            "Bed":"1",
+            "Bath":"1",
+            "Dimension":"600 sq ft",
+            "Cost":"£5,000/month"
+        },
+        {
+            "Location":"Greenwich",
+            "Location_name" : "Cutty Sark",
+            "Rooms":"3",
+            "Bed":"2",
+            "Bath":"2",
+            "Dimension":"800 sq ft",
+            "Cost":"£6,000/month"
+        },
+        {
+            "Location":"Islington",
+            "Location_name" : "Angel",
+            "Rooms":"1",
+            "Bed":"1",
+            "Bath":"1",
+            "Dimension":"500 sq ft",
+            "Cost":"£4,000/month"
+        }
+    ]
+}
