@@ -8,7 +8,8 @@
             "Bed":"1",
             "Bath":"1",
             "Dimension":"800 sq ft",
-            "Cost":"$3,500"
+            "Cost":"$3,500",
+            "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/fc/63/5a/caption.jpg?w=1200&h=-1&s=1"
         },
         {
             "Location":"Brooklyn Heights",
@@ -17,7 +18,8 @@
             "Bed":"2",
             "Bath":"1",
             "Dimension":"1,000 sq ft",
-            "Cost":"$4,000"
+            "Cost":"$4,000",
+            "image":"https://cdn.britannica.com/99/136499-050-45310457/Waterfront-promenade-Bridgetown-Barb.jpg"
         },
         {
             "Location":"SoHo",
@@ -26,7 +28,8 @@
             "Bed":"1",
             "Bath":"1",
             "Dimension":"600 sq ft",
-            "Cost":"$5,000"
+            "Cost":"$5,000",
+            "image":"https://images.contentstack.io/v3/assets/bltba617d00249585dc/bltd4f3f81f29e1f17d/60edf20703d890274e98b070/1-reedbroadway-heromobile-1440x1440.jpg?format=pjpg&auto=webp&disable=upscale&quality=70&width=960&height=960&fit=crop"
         },
         {
             "Location":"East Village",
@@ -35,7 +38,8 @@
             "Bed":"1",
             "Bath":"1",
             "Dimension":"700 sq ft",
-            "Cost":"$3,000"
+            "Cost":"$3,000",
+            "image":"https://upload.wikimedia.org/wikipedia/commons/5/5c/St._Marks_Place.jpg"
         },
         {
             "Location":"Midtown",
@@ -44,7 +48,8 @@
             "Bed":"2",
             "Bath":"2",
             "Dimension":"1,200 sq ft",
-            "Cost":"$6,000"
+            "Cost":"$6,000",
+            "image":"https://www.midtowncomics.com/images/stores/grandcentral/gc-a2.jpg"
         },
         {
             "Location":"Williamsburg",
@@ -53,7 +58,8 @@
             "Bed":"1",
             "Bath":"1",
             "Dimension":"500 sq ft",
-            "Cost":"$3,500"
+            "Cost":"$3,500",
+            "image":"https://photos.zillowstatic.com/fp/320ad163793b6ce399f32e3215e2f905-se_large_800_400.webp"
         },
         {
             "Location":"Greenwich Village",
@@ -62,7 +68,8 @@
             "Bed":"1",
             "Bath":"1",
             "Dimension":"800 sq ft",
-            "Cost":"$4,000"
+            "Cost":"$4,000",
+            "image":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Washington_Square_Arch-Isabella.jpg"
         },
         {
             "Location":"Chelsea",
@@ -71,7 +78,8 @@
             "Bed":"2",
             "Bath":"2",
             "Dimension":"1,000 sq ft",
-            "Cost":"$5,000"
+            "Cost":"$5,000",
+            "image":"https://upload.wikimedia.org/wikipedia/commons/5/56/AHigh_Line_Park%2C_Section_1a.jpg"
         },
         {
             "Location":"Financial District",
@@ -80,7 +88,8 @@
             "Bed":"1",
             "Bath":"1",
             "Dimension":"600 sq ft",
-            "Cost":"$4,500"
+            "Cost":"$4,500",
+            "image":"https://images.ctfassets.net/1aemqu6a6t65/5rPsNLkgpwvZPSmjhE5ChB/9ee0978b3d792515d59fefab5296b832/wall-street-photo-tagger-yancey-iv-nyc-and-company-02-2?w=1200&h=800&q=75"
         }
     ],
     "Mumbai":[
@@ -91,7 +100,8 @@
             "Bed":"1",
             "Bath":"1",
             "Dimension":"700 sq ft",
-            "Cost":"INR 35,000"
+            "Cost":"INR 35,000",
+            "image":"https://assets-news.housing.com/news/wp-content/uploads/2018/05/24200831/Bandra-west-Mumbai%E2%80%99s-first-lifestyle-suburb-FB-1200x628-compressed.jpg"
         },
         {
             "Location":"Andheri West",
@@ -100,7 +110,8 @@
             "Bed":"2",
             "Bath":"1",
             "Dimension":"1,000 sq ft",
-            "Cost":"INR 40,000"
+            "Cost":"INR 40,000",
+            "image":"https://img.staticmb.com/mbphoto/locality/cropped_images/2020/Sep/22/Photo_h600_w900/60018_IMG20200121155953---pankaj-bhardwaj_600_900.jpg"
         },
         {
             "Location":"Lower Parel",
@@ -109,7 +120,8 @@
             "Bed":"1",
             "Bath":"1",
             "Dimension":"600 sq ft",
-            "Cost":"INR 50,000"
+            "Cost":"INR 50,000",
+            "image":"https://upload.wikimedia.org/wikipedia/commons/6/65/BKC_-_panoramio.jpg"
         },
         {
             "Location":"Borivili West",
@@ -118,7 +130,8 @@
             "Bed":"1",
             "Bath":"1",
             "Dimension":"700 sq ft",
-            "Cost":"INR 30,000"
+            "Cost":"INR 30,000",
+            "image":"https://a.travel-assets.com/findyours-php/viewfinder/images/res70/472000/472854-Mumbai.jpg"
         },
         {
             "Location":"Kharghar",
@@ -127,7 +140,8 @@
             "Bed":"2",
             "Bath":"2",
             "Dimension":"1,200 sq ft",
-            "Cost":"INR 60,000"
+            "Cost":"INR 60,000",
+            "image":"https://www.hlimg.com/images/things2do/738X538/Palm-Beach-Road_1507979048t.jpg"
         },
         {
             "Location":"Malad West",
@@ -136,7 +150,8 @@
             "Bed":"1",
             "Bath":"1",
             "Dimension":"500 sq ft",
-            "Cost":"INR 35,000"
+            "Cost":"INR 35,000",
+            "image":"https://www.seawatersports.com/img/newimage/places/dlf-mall-of-india.png"
         },
         {
             "Location":"Goregaon East",
@@ -145,7 +160,8 @@
             "Bed":"1",
             "Bath":"1",
             "Dimension":"800 sq ft",
-            "Cost":"INR 40,000"
+            "Cost":"INR 40,000",
+            "image":"https://images.mid-day.com/images/images/2015/apr/Prabhadevi-Mandir-l.jpg"
         },
         {
             "Location":"Powai",
@@ -154,7 +170,8 @@
             "Bed":"2",
             "Bath":"2",
             "Dimension":"1,000 sq ft",
-            "Cost":"INR 50,000"
+            "Cost":"INR 50,000",
+            "image":"https://upload.wikimedia.org/wikipedia/commons/8/81/Hiranandani_gardens_view_from_powai.JPG"
         },
         {
             "Location":"Andheri East",
@@ -163,7 +180,8 @@
             "Bed":"1",
             "Bath":"1",
             "Dimension":"600 sq ft",
-            "Cost":"INR 45,000"
+            "Cost":"INR 45,000",
+            "image":"https://img.staticmb.com/mbphoto/locality/cropped_images/2020/Sep/22/Photo_h600_w900/60017_IMG-20200116-WA0020---Vinit-Pandey_600_900.jpg"
         }
     ],
     "Paris":[
@@ -174,7 +192,8 @@
             "Bed":"1",
             "Bath":"1",
             "Dimension":"60m²",
-            "Cost":"€3,500"
+            "Cost":"€3,500",
+            "image":"https://i0.wp.com/pariskathmandu.com/wp-content/uploads/2019/10/144672546_535615444041543_1052462032611868300_n.jpg?fit=780%2C627&ssl=1"
         },
         {
             "Location":"Marais",
@@ -183,7 +202,8 @@
             "Bed":"2",
             "Bath":"1",
             "Dimension":"80m²",
-            "Cost":"€4,000"
+            "Cost":"€4,000",
+            "image":"https://www.aparisguide.com/lemarais/ru-de-tresor.jpg"
         },
         {
             "Location":"Eiffel Tower",
@@ -192,7 +212,8 @@
             "Bed":"1",
             "Bath":"1",
             "Dimension":"40m²",
-            "Cost":"€5,000"
+            "Cost":"€5,000",
+            "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/7d/03/6e/parc-du-champs-de-mars.jpg?w=1200&h=-1&s=1"
         },
         {
             "Location":"Montmartre",
@@ -201,7 +222,8 @@
             "Bed":"1",
             "Bath":"1",
             "Dimension":"70m²",
-            "Cost":"€3,000"
+            "Cost":"€3,000",
+            "image":"https://cdn.sortiraparis.com/images/80/93251/624771-montmartre-paris-sacre-coeur.jpg"
         },
         {
             "Location":"Latin Quarter",
@@ -210,7 +232,8 @@
             "Bed":"2",
             "Bath":"2",
             "Dimension":"100m²",
-            "Cost":"€6,000"
+            "Cost":"€6,000",
+            "image":"https://www.comitecolbert.com/app/uploads/2020/12/immersion-cour-d-honneur-sorbonne-copyright-chancellerie-des-universites-de-paris-1440x0-c-center.jpg"
         },
         {
             "Location":"Opéra",
@@ -219,7 +242,8 @@
             "Bed":"1",
             "Bath":"1",
             "Dimension":"50m²",
-            "Cost":"€3,500"
+            "Cost":"€3,500",
+            "image":"https://parisjetaime.com/data/layout_image/fr-FR/Place-Vend%C3%B4me-Vue-g%C3%A9n%C3%A9rale--630x405--%C2%A9-Leo-Serrat.jpg"
         },
         {
             "Location":"Jardin du Luxembourg",
@@ -228,7 +252,8 @@
             "Bed":"1",
             "Bath":"1",
             "Dimension":"80m²",
-            "Cost":"€4,000"
+            "Cost":"€4,000",
+            "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/77/e3/72/plaza.jpg?w=1200&h=-1&s=1"
         },
         {
             "Location":"Canal Saint-Martin",
@@ -237,7 +262,8 @@
             "Bed":"2",
             "Bath":"2",
             "Dimension":"100m²",
-            "Cost":"€5,000"
+            "Cost":"€5,000",
+            "image":"https://www.francetoday.com/wp-content/uploads/2021/02/Oberkampf-Street_View-Up-Street-from-Blvd_DSCF7076-2.jpg"
         },
         {
             "Location":"Bercy",
@@ -246,7 +272,8 @@
             "Bed":"1",
             "Bath":"1",
             "Dimension":"60m²",
-            "Cost":"€4,500"
+            "Cost":"€4,500",
+            "image":"https://cdn.britannica.com/13/143013-050-7C50EA88/chateau-Vincennes-France.jpg"
         }
     ],
     "London":[
@@ -257,7 +284,8 @@
             "Bed":"1",
             "Bath":"1",
             "Dimension":"600 sq ft",
-            "Cost":"£4,000"
+            "Cost":"£4,000",
+            "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/3d/ba/06/chelsea-embankment-gardens.jpg?w=1200&h=-1&s=1"
         },
         {
             "Location":"Soho",
@@ -266,7 +294,8 @@
             "Bed":"2",
             "Bath":"1",
             "Dimension":"800 sq ft",
-            "Cost":"£5,000"
+            "Cost":"£5,000",
+            "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/5b/1f/d2/magica-via-dello-shopping.jpg?w=1200&h=1200&s=1&cx=637&cy=557&chk=v1_71bcdd085ec5db48636d"
         },
         {
             "Location":"Notting Hill",
@@ -275,7 +304,8 @@
             "Bed":"1",
             "Bath":"1",
             "Dimension":"500 sq ft",
-            "Cost":"£6,000"
+            "Cost":"£6,000",
+            "image":"https://www.tripsavvy.com/thmb/bb5tKZ5wNVWyX5br9tdISKljf4g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/PortobelloRoadMarket-6-dc0d6b89ab944659b89206650a4d1242.jpg"
         },
         {
             "Location":"Kensington",
@@ -284,7 +314,8 @@
             "Bed":"1",
             "Bath":"1",
             "Dimension":"700 sq ft",
-            "Cost":"£3,500"
+            "Cost":"£3,500",
+            "image":"https://assets.traveltriangle.com/blog/wp-content/uploads/2017/11/Hyde-Park.jpg"
         },
         {
             "Location":"Mayfair",
@@ -293,7 +324,8 @@
             "Bed":"2",
             "Bath":"2",
             "Dimension":"1,000 sq ft",
-            "Cost":"£7,000"
+            "Cost":"£7,000",
+            "image":"https://cdn.mos.cms.futurecdn.net/ZwBpEKpZns87f6mm9vZMbL.jpg"
         },
         {
             "Location":"Shoreditch",
@@ -302,7 +334,8 @@
             "Bed":"1",
             "Bath":"1",
             "Dimension":"400 sq ft",
-            "Cost":"£4,500"
+            "Cost":"£4,500",
+            "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/83/4f/a3/brick-lane-london-market.jpg?w=1200&h=-1&s=1"
         },
         {
             "Location":"Camden",
@@ -311,7 +344,8 @@
             "Bed":"1",
             "Bath":"1",
             "Dimension":"600 sq ft",
-            "Cost":"£5,000"
+            "Cost":"£5,000",
+            "image":"https://img.ev.mu/images/attractions/7245/960x640/421536.jpg"
         },
         {
             "Location":"Greenwich",
@@ -320,7 +354,8 @@
             "Bed":"2",
             "Bath":"2",
             "Dimension":"800 sq ft",
-            "Cost":"£6,000"
+            "Cost":"£6,000",
+            "image":"https://www.rmg.co.uk/sites/default/files/styles/max_width_1440/public/2022-04/P1040877.JPG?itok=_UDXTVQR"
         },
         {
             "Location":"Islington",
@@ -329,7 +364,8 @@
             "Bed":"1",
             "Bath":"1",
             "Dimension":"500 sq ft",
-            "Cost":"£4,000"
+            "Cost":"£4,000",
+            "image":"https://upload.wikimedia.org/wikipedia/commons/6/6c/AngelIslington.JPG"
         }
     ]
 }

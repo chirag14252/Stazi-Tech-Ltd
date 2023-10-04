@@ -3,7 +3,6 @@
     background-color: rgb(255, 255, 255);
     display: flex;
     flex-direction: column;
-    width: 350px;
     border-radius: 16px;
     padding: 8px;
     gap: 8px;
@@ -21,7 +20,8 @@
 
 .prop-card .image-container {
     width: 100%;
-    aspect-ratio: 7/5;
+    /* aspect-ratio: 8/5; */
+    height: 300px;
 }
 .prop-card .image-container .main-img {
     width: 100%;

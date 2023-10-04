@@ -11,6 +11,10 @@ const [More,changeMore] = useState(0);
 const CityNavData = (data)=>{
    changeCity(data);
 }
+
+const MoreNavData = (data)=>{
+  changeMore(data);
+}
 useEffect(()=>{
   axios.get(`http://localhost:3000/${City}`).then((res)=>{
     changeProperty(res.data);
@@ -19,7 +23,7 @@ useEffect(()=>{
 
  const FrontData = Property.slice(0,6)
   return <>
-    <Nav City = {CityNavData}/>
+    <Nav City = {CityNavData} more={MoreNavData}/>
     <div className="cards-grid">
       {
         !More?FrontData.map(item => {

@@ -16,8 +16,7 @@ function Card({PropDetails}) {
             <button class="button-left-top">For Rent</button>
             <button class="button-right-top"><img src="/heart.png" alt="" className="like"/></button>
             </div>
-            <img src="https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?cs=srgb&dl=pexels-binyamin-mellish-106399.jpg&fm=jpg" alt={`${Location_name} Image`} width={200} className="main-img"/>
-           
+            <img src={PropertyImage} alt={`${Location_name} Image`} width={200} className="main-img"/>
         </div>
         <div className="details-container">
            
