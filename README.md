@@ -2,7 +2,7 @@
 
 Assignment1 : Seller's App
 
-To run the project in local Server,follow these steps:
+To run the project in local Server,follow these steps:\n
 1- npm i
 2- cd src >> cd json >> json-server --watch vehicles.json (APIs will be generated with http://localhost:3000/vehicles)
 3- run  "npm run dev" in other terminal.
