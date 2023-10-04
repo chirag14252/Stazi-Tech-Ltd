@@ -50,7 +50,7 @@ const filteredAns = ans?.filter((innerArray) => innerArray.length > 0);
              return <Card key={idx} carDetails={car} />
             })
       }
-
+     
     </div>
     <Footer pageInfo={collectingPageData}/>
   </>

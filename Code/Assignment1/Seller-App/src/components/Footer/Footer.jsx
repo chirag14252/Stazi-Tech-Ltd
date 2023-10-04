@@ -11,21 +11,21 @@ const Footer = (props)=>{
         return state;
     }
     const [currentState,changeState] = useReducer(triggered,1);
+    props.pageInfo(currentState)
     return(
        <div className="Footer-section">
          <div className="Footer-item">
             <button onClick={()=>{
             if(currentState > 1){
                     changeState({type:"DEC"});
-                    props.pageInfo(currentState)
+           
             }
             }
             }>Prev</button>
-            <div>{currentState}</div>
+            <div className="page-show">{currentState}</div>
             <button onClick={()=>{
                 if(currentState < 10){
                     changeState({type:"INC"});
-                    props.pageInfo(currentState);
                 }
             }}>Next</button>
          </div>

@@ -2,8 +2,24 @@
     margin: 1rem;
     display: flex;
     justify-content: flex-end;
+    align-items: end;
+    position: fixed;
+    bottom: 0;
+    padding: 8px;
+    background-color: white;
+    border-radius: 8px;
+    border: 1px solid black
 }
 
 .Footer-item{
     display: flex;
+    gap:2rem;
+}
+
+.page-show{
+    background-color: aliceblue;
+    border-radius: 3px;
+    padding: 10px 15px;
+    text-align: center;
+    border: 1px solid black;
 }
